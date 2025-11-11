@@ -99,6 +99,72 @@
             <mxPoint x="450" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="PEzgxbDdLzOlJ6uHhhey-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="920" width="730" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="PEzgxbDdLzOlJ6uHhhey-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="940" width="210" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="PEzgxbDdLzOlJ6uHhhey-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="960" width="207.5" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="PEzgxbDdLzOlJ6uHhhey-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1020" width="130" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="PEzgxbDdLzOlJ6uHhhey-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="1015" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="PEzgxbDdLzOlJ6uHhhey-36" value="Data Persistence Layer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="307.5" y="940" width="190" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="PEzgxbDdLzOlJ6uHhhey-37" value="PostgreSQl Database" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="970" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PEzgxbDdLzOlJ6uHhhey-38" value="Redis (Channel Layer + Cache)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="970" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PEzgxbDdLzOlJ6uHhhey-39" value="User Models&lt;div&gt;&lt;br&gt;&lt;div&gt;Course Data&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;Progress&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;Achievements&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="138.75" y="1030" width="110" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="PEzgxbDdLzOlJ6uHhhey-40" value="Session Data&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;WebSocket Channels&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Leaderboard Cache&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1050" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PEzgxbDdLzOlJ6uHhhey-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="1285" width="730" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="PEzgxbDdLzOlJ6uHhhey-42" value="Infrastructure Layer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1290" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PEzgxbDdLzOlJ6uHhhey-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1330" width="650" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="PEzgxbDdLzOlJ6uHhhey-44" value="Docker Engine" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1340" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PEzgxbDdLzOlJ6uHhhey-45" value="Sandbox&amp;nbsp;&lt;div&gt;Container&lt;/div&gt;&lt;div&gt;(User A)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="125" y="1370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEzgxbDdLzOlJ6uHhhey-47" value="Sandbox&amp;nbsp;&lt;div&gt;Container&lt;/div&gt;&lt;div&gt;(User B)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="327.5" y="1370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEzgxbDdLzOlJ6uHhhey-48" value="Sandbox&amp;nbsp;&lt;div&gt;Container&lt;/div&gt;&lt;div&gt;(User C)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PEzgxbDdLzOlJ6uHhhey-49" value="&lt;ul&gt;&lt;li&gt;CPU Limits: 0.5 cores&lt;/li&gt;&lt;li&gt;Memory Limits: 256MB&lt;/li&gt;&lt;li&gt;Network: Isolated&lt;/li&gt;&lt;li&gt;File system: Read-Only + /tmp&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1470" width="430" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PEzgxbDdLzOlJ6uHhhey-51" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PEzgxbDdLzOlJ6uHhhey-31" target="PEzgxbDdLzOlJ6uHhhey-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="1290" as="sourcePoint" />
+            <mxPoint x="570" y="1240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PEzgxbDdLzOlJ6uHhhey-52" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PEzgxbDdLzOlJ6uHhhey-9" target="PEzgxbDdLzOlJ6uHhhey-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="980" as="sourcePoint" />
+            <mxPoint x="570" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
