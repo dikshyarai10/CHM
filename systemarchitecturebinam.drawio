@@ -124,19 +124,19 @@
           <mxGeometry x="540" y="970" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PEzgxbDdLzOlJ6uHhhey-39" value="User Models&lt;div&gt;&lt;br&gt;&lt;div&gt;Course Data&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;Progress&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;Achievements&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="138.75" y="1030" width="110" height="140" as="geometry" />
+          <mxGeometry x="131.75" y="1030" width="110" height="140" as="geometry" />
         </mxCell>
         <mxCell id="PEzgxbDdLzOlJ6uHhhey-40" value="Session Data&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;WebSocket Channels&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Leaderboard Cache&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="570" y="1050" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PEzgxbDdLzOlJ6uHhhey-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="45" y="1285" width="730" height="350" as="geometry" />
+          <mxGeometry x="45" y="1285" width="730" height="295" as="geometry" />
         </mxCell>
         <mxCell id="PEzgxbDdLzOlJ6uHhhey-42" value="Infrastructure Layer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="1290" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PEzgxbDdLzOlJ6uHhhey-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="1330" width="650" height="260" as="geometry" />
+          <mxGeometry x="90" y="1330" width="650" height="210" as="geometry" />
         </mxCell>
         <mxCell id="PEzgxbDdLzOlJ6uHhhey-44" value="Docker Engine" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="1340" width="100" height="20" as="geometry" />
